@@ -29,7 +29,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,sql,bash"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,sql,bash,php,pandas,matplotlib,numpy"/>
 </p>
 
 ### Frameworks & Libraries
