@@ -78,7 +78,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithHarsh143&theme=tokyo-night"/>
 
 </p>
 
@@ -88,7 +88,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CodeWithHarsh143&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
