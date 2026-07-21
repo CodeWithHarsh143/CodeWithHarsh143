@@ -14,7 +14,7 @@
 - 🎓 Passionate about **Artificial Intelligence & Machine Learning**
 - 🌐 Building Full Stack Web Applications using **Flask + JavaScript**
 - 🧩 Competitive Programmer on **LeetCode** and **Codeforces**
-- 🐧 Linux Enthusiast (Ubuntu • Learning Arch Linux)
+- 🐧 Linux Enthusiast (Ubuntu )
 - 🚀 Currently building a **LeetCode Progress Tracker**
 - 📚 Currently learning
   - System Design
@@ -138,7 +138,7 @@ Manage personal expenses with
 - ✅ Learn System Design
 - ✅ Build AI Projects
 - ✅ Contribute to Open Source
-- ✅ Master Linux & Neovim
+- ✅ Master Linux
 
 ---
 
