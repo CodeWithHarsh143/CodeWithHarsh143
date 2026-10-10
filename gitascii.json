@@ -1,0 +1,113 @@
+{
+  "username": "CodeWithHarsh143",
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#c084fc",
+        "ledColor": "#ff5555"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1791646755370_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 417
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1791646755370_1"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 0,
+        "y": 845
+      },
+      "size": {
+        "width": 780,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Daily Loadout",
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Docker",
+          "Terminal",
+          "PowerShell",
+          "Linux",
+          "Postman",
+          "Neovim"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1791646755370_3"
+    },
+    {
+      "instanceId": "widget_1791647090573",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 0,
+        "y": 1061
+      },
+      "size": {
+        "width": 768,
+        "height": 280
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg"
+  },
+  "templateId": "rugbedbugg",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1791647206802_4f5jq",
+    "updatedAt": "2026-10-10T15:46:49.036Z"
+  }
+}
