@@ -24,33 +24,11 @@
       "instanceId": "widget_1791646755370_0"
     },
     {
-      "widgetId": "surveillance-telemetry",
-      "name": "Surveillance-telemetry Widget",
-      "position": {
-        "x": 10,
-        "y": 417
-      },
-      "size": {
-        "width": 780,
-        "height": 420
-      },
-      "config": {
-        "accentColor": "#00ff88",
-        "customTitle": "Terminal Telemetry",
-        "secondaryColor": "#55ffff",
-        "ledColor": "#00ff88"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 2,
-      "instanceId": "widget_1791646755370_1"
-    },
-    {
       "widgetId": "surveillance-loadout",
       "name": "Surveillance-loadout Widget",
       "position": {
-        "x": 0,
-        "y": 845
+        "x": 10,
+        "y": 1025
       },
       "size": {
         "width": 780,
@@ -76,21 +54,31 @@
       "instanceId": "widget_1791646755370_3"
     },
     {
-      "instanceId": "widget_1791647090573",
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
+      "instanceId": "widget_1791647363332",
+      "widgetId": "premium-ascii-profile-card",
+      "name": "Premium-ascii-profile-card Widget",
       "position": {
-        "x": 0,
-        "y": 1061
+        "x": 112,
+        "y": 417
       },
       "size": {
-        "width": 768,
-        "height": 280
+        "width": 600,
+        "height": 600
       },
-      "config": {},
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d",
+        "customRoles": "AI Engineer and System Engineer",
+        "customLocation": "Pinjore,India",
+        "showWebsite": false
+      },
       "locked": false,
       "visible": true,
-      "zIndex": 4
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -107,7 +95,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791647206802_4f5jq",
-    "updatedAt": "2026-10-10T15:46:49.036Z"
+    "revision": "rev_1791647711371_sym25",
+    "updatedAt": "2026-10-10T15:55:14.032Z"
   }
 }
