@@ -74,7 +74,8 @@
         "borderColor": "#30363d",
         "customRoles": "AI Engineer and System Engineer",
         "customLocation": "Pinjore,India",
-        "showWebsite": false
+        "showWebsite": false,
+        "showUptime": false
       },
       "locked": false,
       "visible": true,
@@ -126,7 +127,7 @@
   "templateId": "rugbedbugg",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791693662358_wel2i",
-    "updatedAt": "2026-10-11T04:41:04.913Z"
+    "revision": "rev_1791729934147_m28h9",
+    "updatedAt": "2026-10-11T14:45:36.341Z"
   }
 }
